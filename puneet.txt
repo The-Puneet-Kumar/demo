@@ -1,1 +1,2 @@
 this is git session 3
+git is easy
